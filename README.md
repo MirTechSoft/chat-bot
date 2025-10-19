@@ -44,7 +44,3 @@ Project Structure
 ├── style.css
 ├── db.sql
 └── README.md  
-
-```bash
-git clone https://github.com/YourUsername/mirtechsoft-chatbot.git
-cd mirtechsoft-chatbot
